@@ -2,7 +2,9 @@
   Quan Ly Nhan Vien:
   -- Them Nhan Vien
 */
-
+function themNguoiDung() {
+    console.log("themnguoidungdpdinh")
+}
 var mangNhanVien = [];
 
 var validation = new validation();
